@@ -1,14 +1,16 @@
 {
   "name": "zoro-kit-regular",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "dependencies": {
     "regular-state": "^0.2.1",
-    "regularjs": "^0.4.4",
-    "zoro-kit": "0.0.1"
+    "regular-strap": "0.0.2",
+    "regularjs": "^0.4.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "zoro-kit": "~0.0.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
