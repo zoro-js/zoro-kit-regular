@@ -1,6 +1,6 @@
 {
   "name": "zoro-kit-regular",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -9,7 +9,7 @@
     "regularjs": "^0.4.4"
   },
   "devDependencies": {
-    "zoro-kit": "~0.0.1"
+    "zoro-kit": "*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
