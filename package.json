@@ -1,11 +1,11 @@
 {
   "name": "zoro-kit-regular",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "dependencies": {
     "regular-state": "^0.2.1",
-    "regular-strap": "0.0.2",
+    "regular-strap": "*",
     "regularjs": "^0.4.4"
   },
   "devDependencies": {
